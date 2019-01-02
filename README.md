@@ -1,2 +1,4 @@
-# NGSortStart
-A legacy Delphi project that would sort the Windows 98 Start Menu alphabetically (legacy project)
+NGSortStart
+===========
+
+A legacy Delphi project that sorts the Windows 98 Start Menu alphabetically (legacy project)
